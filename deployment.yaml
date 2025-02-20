@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: complete-prodcution-e2e-app
-          image: sunnykr910/complete-prodcution-e2e-pipeline:latest
+          image: sunnykr910/complete-prodcution-e2e-pipeline:1.0.0-15
           resources:
             limits:
               memory: "256Mi"
